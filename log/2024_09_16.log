@@ -1,0 +1,11 @@
+2024-09-16 01:30:32.194462 [info] : ========== Server init ==========
+2024-09-16 01:30:32.194494 [info] : Port:1316, OpenLinger: false
+2024-09-16 01:30:32.194499 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-16 01:30:32.194502 [info] : LogSys level: 1
+2024-09-16 01:30:32.194504 [info] : srcDir: /home/tanheran/Webserver/WebServer/resources/
+2024-09-16 01:30:32.194585 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-16 01:30:32.194591 [info] : ========== Server start ==========
+2024-09-16 01:30:35.966199 [info] : Client[6](192.168.135.1:38449) in, userCount:1
+2024-09-16 01:30:35.966362 [info] : Client[6] in!
+2024-09-16 01:30:35.966385 [info] : Client[7](192.168.135.1:38705) in, userCount:2
+2024-09-16 01:30:35.966396 [info] : Client[7] in!
